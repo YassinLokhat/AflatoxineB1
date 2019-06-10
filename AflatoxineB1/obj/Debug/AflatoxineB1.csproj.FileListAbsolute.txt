@@ -1,0 +1,9 @@
+f:\documents and settings\documents\visual studio 2013\Projects\AflatoxineB1\AflatoxineB1\bin\Debug\AflatoxineB1.exe.config
+f:\documents and settings\documents\visual studio 2013\Projects\AflatoxineB1\AflatoxineB1\bin\Debug\AflatoxineB1.exe
+f:\documents and settings\documents\visual studio 2013\Projects\AflatoxineB1\AflatoxineB1\bin\Debug\AflatoxineB1.pdb
+f:\documents and settings\documents\visual studio 2013\Projects\AflatoxineB1\AflatoxineB1\obj\Debug\AflatoxineB1.Form1.resources
+f:\documents and settings\documents\visual studio 2013\Projects\AflatoxineB1\AflatoxineB1\obj\Debug\AflatoxineB1.Properties.Resources.resources
+f:\documents and settings\documents\visual studio 2013\Projects\AflatoxineB1\AflatoxineB1\obj\Debug\AflatoxineB1.csproj.GenerateResource.Cache
+f:\documents and settings\documents\visual studio 2013\Projects\AflatoxineB1\AflatoxineB1\obj\Debug\AflatoxineB1.exe
+f:\documents and settings\documents\visual studio 2013\Projects\AflatoxineB1\AflatoxineB1\obj\Debug\AflatoxineB1.pdb
+f:\documents and settings\documents\visual studio 2013\Projects\AflatoxineB1\AflatoxineB1\obj\Debug\AflatoxineB1.csprojResolveAssemblyReference.cache
